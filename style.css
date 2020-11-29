@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #f59e9e!important;
 }
 
 
@@ -1050,5 +1050,9 @@ h4 {
 .link{
  
     margin:40px;  
-    border:1px solid black; 
+    border:1px solid black; }
+
+    .input[type="email" i] {
+        padding: 50px 48px;
+    } 
    
