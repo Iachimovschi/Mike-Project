@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #f59e9e!important;
+    color: #f6e3f6!important;
 }
 
 
@@ -1051,7 +1051,7 @@ h4 {
  
    
     padding: 15px; 
-    border:1px solid black; }
+    
 
     .input[type="email" i] {
         padding: 50px 48px;
