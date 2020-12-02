@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #f6e3f6!important;
+    color: #381038!important;
 }
 
 
@@ -778,7 +778,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #f65409;
 }
 
 .tc-white {
@@ -804,7 +804,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #ffaa83!important;
 }
 
 .ltc-atomic-tangerine:hover {
