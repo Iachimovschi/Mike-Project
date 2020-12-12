@@ -1658,7 +1658,8 @@ mark {
 }
 
 .text-center {
-    text-align: center
+    text-align: center;
+    color:#140a70;
 }
 
 .text-justify {
