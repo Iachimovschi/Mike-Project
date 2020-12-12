@@ -1058,3 +1058,7 @@ h4 {
         padding: 50px 48px;
     } 
    
+    element.style {
+        color: #140a70;
+        font-size: 1px;
+    }
