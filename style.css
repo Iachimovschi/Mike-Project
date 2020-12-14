@@ -646,7 +646,6 @@ h4,
 h5,
 h6,
 p,
-label,
 .btn,
 a {
     font-family: "helvetica";
@@ -1058,6 +1057,6 @@ h4 {
         padding: 50px 48px;
     } 
 
-   label for {
+   label  {
     color:#480606;
    }
