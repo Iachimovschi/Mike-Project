@@ -1057,5 +1057,7 @@ h4 {
     .input[type="email" i] {
         padding: 50px 48px;
     } 
-   
     
+   .label {
+    color:#480606;
+   }
