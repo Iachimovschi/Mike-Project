@@ -805,7 +805,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #ffaa83!important;
+    color: #381302!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -1057,7 +1057,7 @@ h4 {
     .input[type="email" i] {
         padding: 50px 48px;
     } 
-    
-   .label {
+
+   .label for {
     color:#480606;
    }
